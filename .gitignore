@@ -1,0 +1,17 @@
+# Rope project setting
+.ropeproject
+
+# mkdocks documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmpy.json
+dmpy.json
+
+# pre type checker
+.pyre/
+
+# vscode
+.vscode/
+.idea/
